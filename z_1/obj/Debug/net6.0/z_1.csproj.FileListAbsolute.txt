@@ -1,0 +1,15 @@
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\bin\Debug\net6.0\z_1.exe
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\bin\Debug\net6.0\z_1.deps.json
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\bin\Debug\net6.0\z_1.runtimeconfig.json
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\bin\Debug\net6.0\z_1.dll
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\bin\Debug\net6.0\z_1.pdb
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.csproj.AssemblyReference.cache
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.AssemblyInfoInputs.cache
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.AssemblyInfo.cs
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.csproj.CoreCompileInputs.cache
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.dll
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\refint\z_1.dll
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.pdb
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\z_1.genruntimeconfig.cache
+D:\Users\KonovalovSV\Desktop\GB_4973_DZ\z_1\obj\Debug\net6.0\ref\z_1.dll
