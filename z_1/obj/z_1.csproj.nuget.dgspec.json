@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Users\\KonovalovSV\\Desktop\\GB_4973_DZ\\z_1\\z_1.csproj": {}
+    "d:\\Users\\KonovalovSV\\Desktop\\УЧЕБА\\GB_4973_DZ\\z_1\\z_1.csproj": {}
   },
   "projects": {
-    "d:\\Users\\KonovalovSV\\Desktop\\GB_4973_DZ\\z_1\\z_1.csproj": {
+    "d:\\Users\\KonovalovSV\\Desktop\\УЧЕБА\\GB_4973_DZ\\z_1\\z_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Users\\KonovalovSV\\Desktop\\GB_4973_DZ\\z_1\\z_1.csproj",
+        "projectUniqueName": "d:\\Users\\KonovalovSV\\Desktop\\УЧЕБА\\GB_4973_DZ\\z_1\\z_1.csproj",
         "projectName": "z_1",
-        "projectPath": "d:\\Users\\KonovalovSV\\Desktop\\GB_4973_DZ\\z_1\\z_1.csproj",
+        "projectPath": "d:\\Users\\KonovalovSV\\Desktop\\УЧЕБА\\GB_4973_DZ\\z_1\\z_1.csproj",
         "packagesPath": "C:\\Users\\KonovalovSV\\.nuget\\packages\\",
-        "outputPath": "d:\\Users\\KonovalovSV\\Desktop\\GB_4973_DZ\\z_1\\obj\\",
+        "outputPath": "d:\\Users\\KonovalovSV\\Desktop\\УЧЕБА\\GB_4973_DZ\\z_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KonovalovSV\\AppData\\Roaming\\NuGet\\NuGet.Config"
