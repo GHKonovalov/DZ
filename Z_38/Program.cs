@@ -2,35 +2,54 @@
 //[3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76//
 
 
-Console.Clear();
-int[] array = GetArray();
-PrintArray(array);
-Console.Write($" -> {GetDiff(array)}");
+/*Задача 38: Задайте массив вещественных чисел. 
+Найдите разницу между максимальным и минимальным элементов массива.
+[3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
+*/
 
-int[] GetArray()
+
+int[] GetRandomArray(int arrayLenght1, int start, int end)//создаёт массив
 {
-  int size = new Random().Next(5, 10);
-  int[] array = new int[size];
-  for (int i = 0; i < array.Length; i++)
-  {
-    array[i] = new Random().Next(0, 100);
-  }
-  return array;
+    int[] array = new int[arrayLenght1];
+    for (int i = 0; i < array.Length; i++)
+    {
+        array[i] = new Random().Next(start, end);
+    }
+    return array;
 }
 
-void PrintArray(int[] array)
+void PrintArray(int[] arrayToPrint)//заполняет массив рандомными числами
 {
-  Console.Write($"[{String.Join(", ", array)}]");
+    System.Console.Write("[");
+    for (int i = 0; i < arrayToPrint.Length; i++)
+    {
+        System.Console.Write(arrayToPrint[i]);
+        if (i < arrayToPrint.Length - 1)
+        {
+            System.Console.Write(", ");
+        }
+    }
+    System.Console.Write("]");
 }
 
-int GetDiff(int[] array)
+int maxFillarray(numbers[0])
 {
-  int min = 100, max = 0, result = 0;
-  foreach (int el in array)
-  {
-    if (max < el) max = el;
-    if (min > el) min = el;
-  }
-  result = max - min;
-  return result;
+    while (numbers[i] > maxFillarray)
+    {
+    maxFillarray = numbers[i];
+    }   
 }
+
+int minFillarray(numbers[0])
+{
+    while (numbers[i] < minFillarray)
+    {
+    minFillarray = numbers[i];
+    } 
+}
+Console.WriteLine($"Разница между максимальным и минимальным числом = {maxFillarray - minFillarray}");
+
+System.Console.WriteLine("Введи размер массива, минимальное и максимальное значение");
+int arrayL = Convert.ToInt32(Console.ReadLine());//длина массива
+int min = Convert.ToInt32(Console.ReadLine());//минимальное значение
+int max = Convert.ToInt32(Console.ReadLine());//максимальное значение
